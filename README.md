@@ -4,6 +4,6 @@ I'm learning Git and Github
 
 ## Goals
 - Learn commits
-- learn brances
+- learn branches
 - learn merging
 - learn pull requests
